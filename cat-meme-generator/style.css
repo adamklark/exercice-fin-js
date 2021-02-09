@@ -1,0 +1,15 @@
+
+
+
+#meme_text {
+    background-color: transparent;
+    font-size: 40px;
+    font-family: "Impact";
+    color: white;
+    text-shadow: black 0px 0px 10px;
+    width: 600px;
+    position: absolute;
+    left: 145px;
+    top: 400px;
+}
+
